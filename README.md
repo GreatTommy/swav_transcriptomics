@@ -4,6 +4,8 @@ This repertory presents a python package and execution notebooks to show the ben
 The SwAV procedure paper, by Mathilde Caron et al. : https://arxiv.org/abs/2006.09882
 
 To download TCGA RNA-seq data : https://portal.gdc.cancer.gov/
+
+Report to explain the context and the details of this work : https://docs.google.com/document/d/1IoHFgJr-L80sUbmDUmJ805tbjwpPeDhGvnUXFPxCa-A/edit?usp=sharing
 ## cancerclassification package
 This package contains all the modules needed to run the full pipeline : preparing the data, training SwAV, running experiments.
 - data.py : functions around the preprocessing of data and the preparation of the datasets
